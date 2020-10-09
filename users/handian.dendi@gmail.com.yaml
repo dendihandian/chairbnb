@@ -1,0 +1,8 @@
+name: 'Handian Dendi'
+super: false
+roles:
+  - author
+groups:
+  - authors
+id: 17432cfa-abe6-4a31-a1d5-83e0de470d77
+password_hash: $2y$10$2gO3sM0imKCLeSyYHQvHBe/O4XbMItc6tHwAE28kWXvfdUJZRyIX6

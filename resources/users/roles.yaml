@@ -1,4 +1,16 @@
-# admin:
-#   title: Administrator
-#   permissions:
-#     - super
+author:
+  title: Author
+  permissions:
+    - 'access cp'
+    - 'view chairs entries'
+    - 'edit chairs entries'
+    - 'create chairs entries'
+    - 'delete chairs entries'
+    - 'publish chairs entries'
+    - 'reorder chairs entries'
+    - 'view pages entries'
+    - 'edit pages entries'
+    - 'create pages entries'
+    - 'delete pages entries'
+    - 'publish pages entries'
+    - 'reorder pages entries'

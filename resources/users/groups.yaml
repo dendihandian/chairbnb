@@ -1,4 +1,4 @@
-# admin:
-#   title: Administrators
-#   roles:
-#     - admin
+authors:
+  title: Authors
+  roles:
+    - author
